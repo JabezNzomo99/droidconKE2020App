@@ -65,7 +65,9 @@ The app module handles navigation between the features. It also consists of key 
 
 Consists of classes and logic that is to be shared across the application. It contains utility classes and functions as well. The base core is a library.
 
-![App Architecture](https://lh3.googleusercontent.com/6EI050mhVaRoydUSWRlvnjyHpob4b0ivKOlIiz-Jx9Nw1WmCThQlCkV5bgitcvwCfo4rafEGNGLH8aWx4mIzbgNMJ1urJ5zcbaWhyt10ySY7Eir1bVmDtO5JdnanU65b42pOZJD-B7V9-C72gXzbIO1WjSHCGYejRtDXWgBzlbR7Q-A-VV4rjzz4duoAMnDY3quBPt3gPbSOp_aTLl2VNbkflsCL8YrDJWzhdS_lAZwTUXAewlS7RlhW_kE5voBQIy1epnNnB8KfP1UnGrr_snb7vuReRa-jzyF1cPh6CdTeQpX1t5sw_NGNuBkXmT6O3hBwzY_oIVDg4Kh3pYB2iZp50UxzC7HLW0vK9GBC_v2OGOC89gU8d88eEDpvIqQ4Llpp6AFte8F7jPRxFnrI9RZbvu6uE_bB4jdZTPhqVTrhNfHHKsZoFgncoq5ADlicawDF8PQO0uI-uejT2-3FjjTIhsguNmY4ls_cC1h0IH__TH0-V3D_KSCENpxdMTcl8_H27SEMwQNAVlOEnGfuBB4uJ-tbQWl0IVHmu_E9jr5Jkmkh2BRlHFaw8-YZ7CmaIILQ2Y7Zg05jivF5K4fI3LNVfYfsfQhqi65_yf0pZZZfa3av6CXA2viKG_iNB-w4fYrjm4rg-40sxPHguNZ5qOGd78vVO73xHs-eH5ImCEyv_3DR_af5zeI=w692-h622-no "App Architecture")
+<p align="center">
+  <img src="Droid Con Architectire.png" width="500" alt="App Architecture">
+</p>
 
 
 #### Dependencies
